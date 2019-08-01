@@ -1,0 +1,11 @@
+c:\users\herrmannsdoerfer\documents\visual studio 2017\Projects\ChronosPlugin\ChronosPlugin\bin\Debug\ChronosPlugin.dll
+c:\users\herrmannsdoerfer\documents\visual studio 2017\Projects\ChronosPlugin\ChronosPlugin\bin\Debug\ChronosPlugin.pdb
+c:\users\herrmannsdoerfer\documents\visual studio 2017\Projects\ChronosPlugin\ChronosPlugin\obj\Debug\ChronosPlugin.csproj.CoreCompileInputs.cache
+c:\users\herrmannsdoerfer\documents\visual studio 2017\Projects\ChronosPlugin\ChronosPlugin\obj\Debug\ChronosPlugin.dll
+c:\users\herrmannsdoerfer\documents\visual studio 2017\Projects\ChronosPlugin\ChronosPlugin\obj\Debug\ChronosPlugin.pdb
+c:\users\herrmannsdoerfer\documents\visual studio 2017\Projects\ChronosPlugin\ChronosPlugin\obj\Debug\ChronosPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\Debug\ChronosPlugin.dll
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\Debug\ChronosPlugin.pdb
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\Debug\ChronosPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\Debug\ChronosPlugin.dll
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\Debug\ChronosPlugin.pdb

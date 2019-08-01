@@ -1,0 +1,16 @@
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\x86\Release\ChronosPlugin.dll
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\x86\Release\ChronosPlugin.pdb
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\x86\Release\ChronosPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\x86\Release\ChronosPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\x86\Release\ChronosPlugin.dll
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\x86\Release\ChronosPlugin.pdb
+\\129.206.158.175\ag-kuner\Users_shared\Herrmannsdoerfer\STORMMicroscope\Software\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\x86\Release\ChronosPlugin.dll
+\\129.206.158.175\ag-kuner\Users_shared\Herrmannsdoerfer\STORMMicroscope\Software\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\x86\Release\ChronosPlugin.pdb
+\\129.206.158.175\ag-kuner\Users_shared\Herrmannsdoerfer\STORMMicroscope\Software\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\x86\Release\Chronos.exe
+\\129.206.158.175\ag-kuner\Users_shared\Herrmannsdoerfer\STORMMicroscope\Software\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\x86\Release\IronAHK.Rusty.dll
+\\129.206.158.175\ag-kuner\Users_shared\Herrmannsdoerfer\STORMMicroscope\Software\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\x86\Release\Chronos.exe.config
+\\129.206.158.175\ag-kuner\Users_shared\Herrmannsdoerfer\STORMMicroscope\Software\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\x86\Release\de\Chronos.resources.dll
+\\129.206.158.175\ag-kuner\Users_shared\Herrmannsdoerfer\STORMMicroscope\Software\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\x86\Release\ChronosPlugin.csprojResolveAssemblyReference.cache
+\\129.206.158.175\ag-kuner\Users_shared\Herrmannsdoerfer\STORMMicroscope\Software\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\x86\Release\ChronosPlugin.csproj.CoreCompileInputs.cache
+\\129.206.158.175\ag-kuner\Users_shared\Herrmannsdoerfer\STORMMicroscope\Software\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\x86\Release\ChronosPlugin.dll
+\\129.206.158.175\ag-kuner\Users_shared\Herrmannsdoerfer\STORMMicroscope\Software\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\x86\Release\ChronosPlugin.pdb

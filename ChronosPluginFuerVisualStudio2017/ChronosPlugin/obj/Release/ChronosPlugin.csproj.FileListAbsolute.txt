@@ -1,0 +1,5 @@
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\Release\ChronosPlugin.dll
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\bin\Release\ChronosPlugin.pdb
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\Release\ChronosPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\Release\ChronosPlugin.dll
+C:\Users\Public\Plugin For Chronos\ChronosPluginFuerVisualStudio2017\ChronosPlugin\obj\Release\ChronosPlugin.pdb
